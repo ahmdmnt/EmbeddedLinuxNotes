@@ -1,0 +1,8 @@
+# Ignore .obsidian directory 
+.obsidian/
+# Ignore directory 
+.vscode/
+.metadata/
+# Ignore files
+*.out
+*.exe
